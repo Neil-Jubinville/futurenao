@@ -7,7 +7,7 @@ OK so this code is for CLI mode right now, we will have to port it to choreagrap
 
 To install, simply SSH to your nao,  
 
-mkdir /orbital            (This is the base folder for the python cloud files)
+mkdir /orbital            (This is the base folder for the python cloud files) <br>
 mkdir /orbital/images     (this you need if you want to run the demo)
 
 then you need to get this code into the orbital folder.   I haven't installed git on NAO yet so from your favorite place
