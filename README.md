@@ -1,7 +1,7 @@
 futurenao
 =========
 
-client side tools for robot cloud services
+client side tools for robot cloud services http://nao.orbitalsoftware.ca
 
 OK so this code is for CLI mode right now, we will have to port it to choreagraph.
 
