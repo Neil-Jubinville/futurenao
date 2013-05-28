@@ -3,7 +3,7 @@ futurenao
 
 client side tools for robot cloud services http://nao.orbitalsoftware.ca
 
-OK so this code is for CLI mode right now, we will have to port it to choreagraph.
+OK so this code is for CLI mode right now design to be run on NAO by hand, we will have to port it to choreagraph.
 
 To install, simply SSH to your nao,  
 
