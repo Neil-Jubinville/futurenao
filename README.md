@@ -13,7 +13,7 @@ mkdir /orbital/images     (this you need if you want to run the demo)
 then you need to get this code into the orbital folder.   I haven't installed git on NAO yet so from your favorite place
 download the code from github here git clone .......  
 
-then transfer it to /oorbital
+then transfer it to /orbital
 
 edit the OrbitalConnector.py and change the username and password to your account info 
 
